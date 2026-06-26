@@ -26,6 +26,7 @@ window.customMapLocations = [
     name: "Royal National Park",
     lat: -34.053873,
     lng: 151.048522,
+    gpxUrl: "https://scrollstopadmin.github.io/Website3JS/RNP.gpx",
     styles: "Road Legal",
     type: "Road Route",
     desc: "Explore the vast wilderness and coastal beauty.",
