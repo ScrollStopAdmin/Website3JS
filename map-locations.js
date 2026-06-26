@@ -137,6 +137,7 @@ window.customMapLocations = [
     name: "Old Pacific Highway",
     lat: -33.5936,
     lng: 151.1714,
+    gpxUrl: "https://cabmivlexghskseeukwh.supabase.co/storage/v1/object/public/Routes/Old-Pac.gpx",
     type: "Road Route",
     styles: "Road Legal",
     desc: "A legendary scenic motorcycle and driving route featuring winding twisties, lush sandstone cliffs, and classic pitstops.",
